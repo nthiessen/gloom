@@ -1,24 +1,90 @@
 {
-    "baseAttackDeck": [
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "0",
-        "+1",
-        "+1",
-        "+1",
-        "+1",
-        "+1",
-        "-1",
-        "-1",
-        "-1",
-        "-1",
-        "-1",
-        "+2",
-        "-2",
-        "2x",
-        "Null"
-    ]
+    "baseAttackDeck": {
+        "cards": [
+            {
+                "name": "Attack Modifier",
+                "description": "0"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "0"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "0"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "0"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "0"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "0"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "+1"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "+1"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "+1"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "+1"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "+1"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "-1"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "-1"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "-1"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "-1"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "-1"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "+2"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "-2"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "2x"
+            },
+            {
+                "name": "Attack Modifier",
+                "description": "NULL"
+            }
+        ]
+    },
+    "placeHolderCard": {
+        "name": "placeholder",
+        "description": "no card"
+    }
 }
