@@ -7,4 +7,5 @@ export type Deck = {
 export type Card = {
     name: string;
     description: string;
+    imgSrc: string;
 }

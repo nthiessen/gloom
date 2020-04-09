@@ -31,9 +31,6 @@ const AttackDeck = () => {
 
     return (
         <div>
-            <div>Attack Modifier: {attackDeck.drawnCard.description}</div>
-            <img src="/Users/nthiessen/Documents/GitHub/gloom/src/assets/plus_two_attack.jpg" alt="Mountain"></img>
-
             <MuiCard className={classes.root}>
                 <div className={classes.details}>
                     <CardContent className={classes.content}>
@@ -55,7 +52,7 @@ const AttackDeck = () => {
                 </div>
                 <CardMedia
                     className={classes.cover}
-                    image="../assets/blank_attack.jpg"
+                    image={require(`../assets/` + attackDeck.drawnCard.imgSrc)}
                     title="Drawn Card"
                 />
             </MuiCard>
@@ -68,6 +65,8 @@ export default AttackDeck;
 const useStyles = makeStyles((theme) => ({
     root: {
       display: 'flex',
+      padding: theme.spacing(1),
+      width: 390
     },
     details: {
       display: 'flex',
@@ -77,7 +76,8 @@ const useStyles = makeStyles((theme) => ({
       flex: '1 0 auto',
     },
     cover: {
-      width: 151,
+      width: 219,
+      borderRadius: 10
     },
     controls: {
       display: 'flex',

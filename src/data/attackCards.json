@@ -3,88 +3,110 @@
         "cards": [
             {
                 "name": "Attack Modifier",
-                "description": "0"
+                "description": "0",
+                "imgSrc": "zero_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "0"
+                "description": "0",
+                "imgSrc": "zero_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "0"
+                "description": "0",
+                "imgSrc": "zero_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "0"
+                "description": "0",
+                "imgSrc": "zero_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "0"
+                "description": "0",
+                "imgSrc": "zero_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "0"
+                "description": "0",
+                "imgSrc": "zero_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "+1"
+                "description": "+1",
+                "imgSrc": "plus_one_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "+1"
+                "description": "+1",
+                "imgSrc": "plus_one_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "+1"
+                "description": "+1",
+                "imgSrc": "plus_one_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "+1"
+                "description": "+1",
+                "imgSrc": "plus_one_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "+1"
+                "description": "+1",
+                "imgSrc": "plus_one_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "-1"
+                "description": "-1",
+                "imgSrc": "minus_one_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "-1"
+                "description": "-1",
+                "imgSrc": "minus_one_attack.jpg"
+
             },
             {
                 "name": "Attack Modifier",
-                "description": "-1"
+                "description": "-1",
+                "imgSrc": "minus_one_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "-1"
+                "description": "-1",
+                "imgSrc": "minus_one_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "-1"
+                "description": "-1",
+                "imgSrc": "minus_one_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "+2"
+                "description": "+2",
+                "imgSrc": "plus_two_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "-2"
+                "description": "-2",
+                "imgSrc": "minus_two_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "2x"
+                "description": "2x",
+                "imgSrc": "times_two_attack.jpg"
             },
             {
                 "name": "Attack Modifier",
-                "description": "NULL"
+                "description": "NULL",
+                "imgSrc": "null_attack.jpg"
             }
         ]
     },
     "placeHolderCard": {
         "name": "placeholder",
-        "description": "no card"
+        "description": "no card",
+        "imgSrc": "blank_attack.jpg"
     }
 }
